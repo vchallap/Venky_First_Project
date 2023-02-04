@@ -13,10 +13,18 @@
 
         var c=a+b;
         console.log(c);
+          //please do work on bug 123 asap.
+        var d=a-b;
+        console.log(d);
+        //please write separate functions for add and sub later co
 
     }
 
     //STARTING C01 updates.
+    
+  
+    
+    
 
 
 </script>
